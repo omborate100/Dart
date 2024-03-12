@@ -1,5 +1,6 @@
 void main() {
   Robot robot = new Robot();
+  robot.work();
 }
 
 abstract class Machine {
